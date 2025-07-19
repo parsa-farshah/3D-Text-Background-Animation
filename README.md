@@ -41,4 +41,4 @@ Frontend Developer
 
 ---
 
-![Project Preview](cover.jpg)
+![Project Preview](assets/images/cover.jpg)
