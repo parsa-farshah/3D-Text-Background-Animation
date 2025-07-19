@@ -42,3 +42,13 @@ Frontend Developer
 ---
 
 ![Project Preview](assets/images/cover.jpg)
+
+## 📄 HTML & CSS Code Preview
+
+Here’s a quick visual of the main HTML and CSS used in this project:
+
+### 🔤 HTML Snippet
+![HTML Code](assets/images/html.png)
+
+### 🎨 CSS Snippet
+![CSS Code](assets/images/css.png)
