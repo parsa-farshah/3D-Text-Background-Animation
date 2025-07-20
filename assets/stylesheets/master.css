@@ -3,10 +3,12 @@ h2 {
   text-align: center;
   text-transform: uppercase;
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-  font-size: 300px;
+  font-size: 370px;
   margin: 100px 0px;
-  background-image: url(../images/3d.webp);
+  background-image: url(../images/city1.jpg);
   background-size: cover;
+  background-position: 0 40%;
+  font-weight: bolder;
   color: transparent;
   background-clip: text;
   animation: anime 10s ease-in-out infinite alternate;
